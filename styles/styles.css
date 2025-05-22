@@ -23,4 +23,8 @@ body {
     margin: 20%;
     user-select: none;
   }
-  
+
+.big-parrot {
+  width: 300px;
+  object-fit: cover;
+}
